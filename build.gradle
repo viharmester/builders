@@ -1,14 +1,8 @@
-plugins {
-    id 'war'
-}
-
-allprojects {
-    group 'com.builders'
-    version '1.0'
-}
-
 subprojects {
     apply plugin: 'java'
+
+    version = '1.0-SNAPSHOT'
+    sourceCompatibility = '11'
 
     repositories {
         mavenCentral()
@@ -16,9 +10,5 @@ subprojects {
 
     dependencies {
         testImplementation 'junit:junit:4.13.2'
-    }
-
-    test {
-        useJUnit()
     }
 }
