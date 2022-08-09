@@ -19,6 +19,7 @@
         <dependency>
             <groupId>com.builders</groupId>
             <artifactId>services</artifactId>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
