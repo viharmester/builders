@@ -1,0 +1,14 @@
+apply plugin: 'war'
+
+dependencies {
+    implementation project(':services')
+    testImplementation project(':utils')
+    compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
+}
+
+task wrapper(type: Wrapper){
+    gradleVersion = '7.2'
+}
+
+task prepareKotlinBuildScriptModel {
+}

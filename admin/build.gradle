@@ -1,0 +1,10 @@
+dependencies {
+    implementation project(':services')
+    testImplementation project(':utils')
+}
+task wrapper(type: Wrapper){
+    gradleVersion = '7.2'
+}
+
+task prepareKotlinBuildScriptModel {
+}
