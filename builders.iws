@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07575d7e-d443-4c50-939f-e723b0e4c5a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/libs/admin-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/reports/tests/test/classes/com.builders.admin.AdminEntryPointTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/build/reports/tests/test/classes/com.builders.admin.AdminEntryPointTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/reports/tests/test/packages/com.builders.admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/build/reports/tests/test/packages/com.builders.admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/test-results/test/TEST-com.builders.admin.AdminEntryPointTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/build/test-results/test/TEST-com.builders.admin.AdminEntryPointTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/admin/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/admin/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/builders.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/builders.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/build/libs/services-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/build/reports/tests/test/classes/com.builders.services.BuilderServiceTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/build/reports/tests/test/classes/com.builders.services.BuilderServiceTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/build/reports/tests/test/packages/com.builders.services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/build/reports/tests/test/packages/com.builders.services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/build/test-results/test/TEST-com.builders.services.BuilderServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/services/build/test-results/test/TEST-com.builders.services.BuilderServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/services/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/build/libs/utils-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/build/reports/tests/test/classes/com.builders.utils.BuildersUtilTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/utils/build/reports/tests/test/classes/com.builders.utils.BuildersUtilTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/utils/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/build/reports/tests/test/packages/com.builders.utils.html" beforeDir="false" afterPath="$PROJECT_DIR$/utils/build/reports/tests/test/packages/com.builders.utils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/build/test-results/test/TEST-com.builders.utils.BuildersUtilTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/build/test-results/test/TEST-com.builders.utils.BuildersUtilTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/utils/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/libs/web-1.0.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/reports/tests/test/classes/com.builders.web.HelloServletTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/reports/tests/test/classes/com.builders.web.HelloServletTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/reports/tests/test/packages/com.builders.web.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/reports/tests/test/packages/com.builders.web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/test-results/test/TEST-com.builders.web.HelloServletTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/test-results/test/TEST-com.builders.web.HelloServletTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="builders" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="builders" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="builders" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Andris/build" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle admin:build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.builders [build]">
+    <configuration name="builders [admin:build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="admin:build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="builders [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="builders [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="builders [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="builders [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="aws.lambda" factoryName="Remote">
+      <option name="credentialProviderId" />
+      <option name="regionId" />
+      <option name="functionName" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.builders [build]" />
+        <item itemvalue="Gradle.builders [clean]" />
+        <item itemvalue="Gradle.builders [jar]" />
+        <item itemvalue="Gradle.builders [assemble]" />
+        <item itemvalue="Gradle.builders [admin:build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

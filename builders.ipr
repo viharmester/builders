@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.java" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/admin" />
+            <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/utils" />
+            <option value="$PROJECT_DIR$/web" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/builders.iml" filepath="$PROJECT_DIR$/builders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/builders.admin.iml" filepath="$PROJECT_DIR$/admin/builders.admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/builders.admin.main.iml" filepath="$PROJECT_DIR$/admin/builders.admin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/builders.admin.test.iml" filepath="$PROJECT_DIR$/admin/builders.admin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builders.main.iml" filepath="$PROJECT_DIR$/builders.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/builders.services.iml" filepath="$PROJECT_DIR$/services/builders.services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/builders.services.main.iml" filepath="$PROJECT_DIR$/services/builders.services.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/builders.services.test.iml" filepath="$PROJECT_DIR$/services/builders.services.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builders.test.iml" filepath="$PROJECT_DIR$/builders.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/builders.utils.iml" filepath="$PROJECT_DIR$/utils/builders.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/builders.utils.main.iml" filepath="$PROJECT_DIR$/utils/builders.utils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/builders.utils.test.iml" filepath="$PROJECT_DIR$/utils/builders.utils.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/builders.web.iml" filepath="$PROJECT_DIR$/web/builders.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/builders.web.main.iml" filepath="$PROJECT_DIR$/web/builders.web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/builders.web.test.iml" filepath="$PROJECT_DIR$/web/builders.web.test.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="accountSettings">
+    <option name="activeProfile" value="profile:default" />
+    <option name="activeRegion" value="us-west-2" />
+    <option name="recentlyUsedProfiles">
+      <list>
+        <option value="profile:default" />
+      </list>
+    </option>
+    <option name="recentlyUsedRegions">
+      <list>
+        <option value="us-west-2" />
+      </list>
+    </option>
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: javax.servlet:javax.servlet-api:4.0.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/4.0.1/a27082684a2ff0bf397666c3943496c44541d1ca/javax.servlet-api-4.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/4.0.1/49a9da44db6e6b5f44ce15ddfcfe2b6666151b25/javax.servlet-api-4.0.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: junit:junit:4.13.2">
+      <ANNOTATIONS>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/junit/junit/4.12-an1/junit-4.12-an1-annotations.zip!/" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/33987872a811fe4d4001ed494b07854822257f42/junit-4.13.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
