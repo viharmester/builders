@@ -1,6 +1,7 @@
 pipeline {
     agent any
 
+    
     parameters {
         choice(name: 'BUILD_TOOL', choices: ['MAVEN', 'GRADLE'], description: 'The build tool')
     }
