@@ -12,7 +12,7 @@ pipeline {
             }
             steps {
                 echo "maven...!"
-                sh 'mvn clean package'
+                sh 'mvn --version'
             }
         }
         stage('Release with Gradle') {
