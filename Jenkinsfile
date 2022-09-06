@@ -35,7 +35,7 @@ pipeline {
         stage('Deploy to test') {
             steps {
                 echo 'Deploy to test'
-                deploy adapters: [tomcat9(credentialsId: '3eb83963-e106-493f-ac20-ad13f6b35e9f', path: '', url: 'http://ec2-18-130-240-111.eu-west-2.compute.amazonaws.com/:8081/')], contextPath: 'web-1.0', war: '*/target/web-1.0-SNAPSHOT.war'
+                deploy adapters: [tomcat9(credentialsId: '3eb83963-e106-493f-ac20-ad13f6b35e9f', path: '', url: 'http://ec2-18-130-240-111.eu-west-2.compute.amazonaws.com/8081')], contextPath: 'web-1.0-SNAPSHOT.war', war: '*/target/web-1.0-SNAPSHOT.war'
             }
         }
         stage('Check if deploy was successful') {
