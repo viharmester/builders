@@ -21,7 +21,6 @@ pipeline {
             }
             steps {
                 echo "gradle...!"
-                sh './gradlew --version'
             }
         }
         stage('Deploy to test') {
