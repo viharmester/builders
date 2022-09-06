@@ -46,7 +46,7 @@ pipeline {
         stage('Deploy to prod') {
             steps {
                 echo 'Deploy to prod'
-                deploy adapters: [tomcat9(credentialsId: '3eb83963-e106-493f-ac20-ad13f6b35e9f', path: '', url: 'http://ec2-3-10-208-108.eu-west-2.compute.amazonaws.com:8080/')], contextPath: 'web-1.0', war: '*/target/web-1.0-SNAPSHOT.war'
+                deploy adapters: [tomcat9(credentialsId: '3eb83963-e106-493f-ac20-ad13f6b35e9f', path: '', url: 'http://ec2-3-10-208-108.eu-west-2.compute.amazonaws.com:8080/')], contextPath: 'web-1.0-SNAPSHOT.war', war: '*/target/web-1.0-SNAPSHOT.war'
             }
         }
         stage('Open the champagne') {
