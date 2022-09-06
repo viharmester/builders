@@ -31,4 +31,4 @@ To run the tests, you have to fire the following gradle command
 
 `gradle test`
 
-change 3
+change 4
