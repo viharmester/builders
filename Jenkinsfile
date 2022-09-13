@@ -35,7 +35,7 @@ pipeline {
         stage('Deploy to test') {
             steps {
                 echo 'Deploy to test'
-                deploy adapters: [tomcat9(credentialsId: '3eb83963-e106-493f-ac20-ad13f6b35e9f', path: '', url: 'http://ec2-18-130-240-111.eu-west-2.compute.amazonaws.com:8081')], contextPath: 'web-1.0-SNAPSHOT.war', war: '*/target/web-1.0-SNAPSHOT.war'
+                deploy adapters: [tomcat9(credentialsId: '3eb83963-e106-493f-ac20-ad13f6b35e9f', path: '', url: 'http://ec2-13-42-15-232.eu-west-2.compute.amazonaws.com:8081/')], contextPath: 'web-1.0-SNAPSHOT.war', war: '*/target/web-1.0-SNAPSHOT.war'
             }
         }
         stage('Check if deploy was successful') {
@@ -46,7 +46,7 @@ pipeline {
         stage('Deploy to prod') {
             steps {
                 echo 'Deploy to prod'
-                deploy adapters: [tomcat9(credentialsId: '595c15fe-0fb4-42fb-897f-997af622cad6', path: '', url: 'http://ec2-3-10-208-108.eu-west-2.compute.amazonaws.com:8080')], contextPath: 'web-1.0-SNAPSHOT.war', war: '*/target/web-1.0-SNAPSHOT.war'
+                deploy adapters: [tomcat9(credentialsId: '595c15fe-0fb4-42fb-897f-997af622cad6', path: '', url: 'http://ec2-13-41-225-190.eu-west-2.compute.amazonaws.com:8080/')], contextPath: 'web-1.0-SNAPSHOT.war', war: '*/target/web-1.0-SNAPSHOT.war'
             }
         }
         stage('Open the champagne') {
